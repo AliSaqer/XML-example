@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MOVIES>
+
+<movie>
+    <img>aladdin.jpg </img>
+    <Name>Aladdin</Name>
+    <rate>8.5</rate>
+    <Price>80$</Price>    
+</movie>
+
+<movie>
+    <img>jumanj.jpg</img>
+    <Name>Jumanj</Name>
+    <rate>6.2</rate>
+    <Price>11$</Price>
+</movie>
+
+<movie>
+    <img>rip.jpg</img>
+    <Name>RIP</Name>
+    <rate>7.1</rate>
+    <Price>90$</Price>
+    
+</movie>
+
+<movie>
+    <img>terminator.jpg</img>
+    <Name>Terminator</Name>
+    <rate>5.2</rate>
+    <Price>10$</Price>
+</movie>
+
+<movie>
+    <img>tracer.jpg</img>
+    <Name>tracer</Name>
+    <rate>4.5</rate>
+    <Price>50$</Price>
+</movie>
+
+<movie>
+    <img>underground.jpg</img>
+    <Name>underground</Name>
+    <rate>8.6</rate>
+    <Price>80$</Price>
+</movie>
+
+</MOVIES>
